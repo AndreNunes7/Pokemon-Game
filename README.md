@@ -13,7 +13,7 @@ Este é um jogo simples em Python que simula um mundo de Pokémon em um terminal
 2. Certifique-se de que você tenha os pré-requisitos instalados.
 3. Execute o arquivo `main.py` usando a linha de comando:
 
-```sh
+
 python main.py
 
 
