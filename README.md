@@ -16,19 +16,26 @@ Este é um jogo simples em Python que simula um mundo de Pokémon em um terminal
 ```sh
 python main.py
 
-Funcionalidades Principais
-Escolher o Pokémon inicial.
-Capturar pokémons selvagens.
-Explorar o mundo em busca de pokémons.
-Lutar contra inimigos aleatórios.
-Salvar e carregar o progresso do jogo.
-Notas
-O jogo simula as mecânicas básicas dos jogos Pokémon, como captura, batalha e exploração.
-Pokémons têm atributos de nível, vida e ataque.
-O jogador pode capturar e escolher pokémons para batalhar.
-Os pokémons possuem diferentes tipos e ataques correspondentes.
-O jogo salva o progresso usando o pacote pickle.
-Observações
-Este é um projeto de exemplo para fins educativos e de aprendizado.
-Você pode expandir e personalizar o jogo de acordo com suas preferências.
-É recomendável familiarizar-se com o código e ajustá-lo conforme necessário.
+
+## Funcionalidades Principais
+
+- Escolher o Pokémon inicial.
+- Capturar pokémons selvagens.
+- Explorar o mundo em busca de pokémons.
+- Lutar contra inimigos aleatórios.
+- Salvar e carregar o progresso do jogo.
+
+## Notas
+
+- O jogo simula as mecânicas básicas dos jogos Pokémon, como captura, batalha e exploração.
+- Pokémons têm atributos de nível, vida e ataque.
+- O jogador pode capturar e escolher pokémons para batalhar.
+- Os pokémons possuem diferentes tipos e ataques correspondentes.
+- O jogo salva o progresso usando o pacote `pickle`.
+
+## Observações
+
+- Este é um projeto de exemplo para fins educativos e de aprendizado.
+- Você pode expandir e personalizar o jogo de acordo com suas preferências.
+- É recomendável familiarizar-se com o código e ajustá-lo conforme necessário.
+
