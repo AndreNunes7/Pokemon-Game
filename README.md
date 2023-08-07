@@ -11,10 +11,10 @@ Este é um jogo simples em Python que simula um mundo de Pokémon em um terminal
 
 1. Clone este repositório ou faça o download dos arquivos `pokemon.py`, `Pessoa.py` e `main.py`.
 2. Certifique-se de que você tenha os pré-requisitos instalados.
-3. Execute o arquivo `main.py` usando a linha de comando:
+3. Execute o arquivo `main.py` usando a linha de comando: `python main.py`
 
 
-python main.py
+
 
 
 ## Funcionalidades Principais
